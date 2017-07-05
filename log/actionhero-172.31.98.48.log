@@ -81,3 +81,6 @@
 {"level":"info","message":"--------------------------------------","timestamp":"172.31.98.48 @ 2017-07-05T15:46:56.356Z"}
 {"level":"info","message":"using default value of `an actionhero action` for `description`","timestamp":"172.31.98.48 @ 2017-07-05T15:46:56.357Z"}
 {"level":"info","message":" - wrote file '/Users/alexandra/Desktop/actionhero-tutorial/actions/blog.js'","timestamp":"172.31.98.48 @ 2017-07-05T15:46:56.358Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":0,"level":"info","message":"[ action @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T16:01:03.003Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":113,"level":"info","message":"[ action @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T16:01:03.119Z"}
+{"to":"127.0.0.1","params":"{\"userName\":\"alexandra\",\"password\":\"password\"}","duration":0,"error":"Error: unknown action or invalid apiVersion","level":"info","message":"[ action @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T16:03:25.246Z"}
