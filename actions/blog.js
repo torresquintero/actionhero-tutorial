@@ -9,6 +9,7 @@ exports.action = {
   version: 1.0,
   toDocument: true,
   middleware: [],
+  authenticated: true,
 
   inputs: {},
 
