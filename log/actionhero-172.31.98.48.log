@@ -1,0 +1,83 @@
+{"level":"notice","message":"*** Starting ActionHero ***","timestamp":"172.31.98.48 @ 2017-07-05T14:53:59.193Z"}
+{"level":"notice","message":"pid: 3865","timestamp":"172.31.98.48 @ 2017-07-05T14:53:59.195Z"}
+{"level":"notice","message":"server ID: 172.31.98.48","timestamp":"172.31.98.48 @ 2017-07-05T14:53:59.195Z"}
+{"level":"info","message":"actionhero member 192.168.0.11 has left the cluster","timestamp":"172.31.98.48 @ 2017-07-05T14:53:59.200Z"}
+{"level":"info","message":"actionhero member 172.31.98.48 has joined the cluster","timestamp":"172.31.98.48 @ 2017-07-05T14:53:59.200Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8081","timestamp":"172.31.98.48 @ 2017-07-05T14:53:59.206Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"172.31.98.48 @ 2017-07-05T14:53:59.210Z"}
+{"level":"notice","message":"environment: development","timestamp":"172.31.98.48 @ 2017-07-05T14:54:00.235Z"}
+{"level":"alert","message":"*** ActionHero Restarted ***","timestamp":"172.31.98.48 @ 2017-07-05T14:54:00.235Z"}
+{"to":"127.0.0.1","file":"/Users/alexandra/Desktop/actionhero-tutorial/public/index.html","requestedFile":"index.html","size":4785,"duration":3,"success":true,"level":"info","message":"[ file @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T14:54:08.000Z"}
+{"to":"127.0.0.1","file":"/Users/alexandra/Desktop/actionhero-tutorial/public/javascript/actionheroClient.min.js","requestedFile":"javascript/actionheroClient.min.js","size":32945,"duration":3,"success":true,"level":"info","message":"[ file @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T14:54:08.022Z"}
+{"to":"127.0.0.1","file":"/Users/alexandra/Desktop/actionhero-tutorial/public/css/cosmo.css","requestedFile":"css/cosmo.css","size":125619,"duration":4,"success":true,"level":"info","message":"[ file @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T14:54:08.024Z"}
+{"to":"127.0.0.1","file":"/Users/alexandra/Desktop/actionhero-tutorial/public/logo/actionhero.png","requestedFile":"logo/actionhero.png","size":59273,"duration":1,"success":true,"level":"info","message":"[ file @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T14:54:08.037Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":2,"level":"info","message":"[ action @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T14:54:09.202Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":71,"level":"info","message":"[ action @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T14:54:09.277Z"}
+{"to":"127.0.0.1","file":"{not found}","requestedFile":"favicon.ico","size":null,"duration":null,"success":false,"level":"info","message":"[ file @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T14:54:09.355Z"}
+{"to":"127.0.0.1","file":"{not found}","requestedFile":"papi","size":null,"duration":null,"success":false,"level":"info","message":"[ file @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T15:06:04.768Z"}
+{"to":"127.0.0.1","file":"{not found}","requestedFile":"favicon.ico","size":null,"duration":null,"success":false,"level":"info","message":"[ file @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T15:06:06.170Z"}
+{"to":"127.0.0.1","params":"{}","duration":1,"error":"Error: unknown action or invalid apiVersion","level":"info","message":"[ action @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T15:06:08.124Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":6,"level":"info","message":"[ action @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T15:06:59.049Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":102,"level":"info","message":"[ action @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T15:06:59.155Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"172.31.98.48 @ 2017-07-05T15:22:36.456Z"}
+{"level":"info","message":"ACTIONHERO COMMAND >> generate initializer","timestamp":"172.31.98.48 @ 2017-07-05T15:22:36.457Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"172.31.98.48 @ 2017-07-05T15:22:36.457Z"}
+{"level":"info","message":"using default value of `1000` for `loadPriority`","timestamp":"172.31.98.48 @ 2017-07-05T15:22:36.458Z"}
+{"level":"info","message":"using default value of `1000` for `startPriority`","timestamp":"172.31.98.48 @ 2017-07-05T15:22:36.458Z"}
+{"level":"info","message":"using default value of `1000` for `stopPriority`","timestamp":"172.31.98.48 @ 2017-07-05T15:22:36.458Z"}
+{"level":"info","message":" - wrote file '/Users/alexandra/Desktop/actionhero-tutorial/initializers/blog.js'","timestamp":"172.31.98.48 @ 2017-07-05T15:22:36.460Z"}
+{"level":"info","message":"*** rebooting due to config change (/Users/alexandra/Desktop/actionhero-tutorial/config/api.js) ***","timestamp":"172.31.98.48 @ 2017-07-05T15:24:06.852Z"}
+{"level":"notice","message":"Shutting down open servers and stopping task processing...","timestamp":"172.31.98.48 @ 2017-07-05T15:24:06.853Z"}
+{"level":"notice","message":"Stopping server: web","timestamp":"172.31.98.48 @ 2017-07-05T15:24:06.854Z"}
+{"level":"notice","message":"Stopping server: websocket","timestamp":"172.31.98.48 @ 2017-07-05T15:24:06.855Z"}
+{"level":"alert","message":"*** ActionHero Stopped ***","timestamp":"172.31.98.48 @ 2017-07-05T15:24:06.859Z"}
+{"level":"notice","message":"*** Starting ActionHero ***","timestamp":"172.31.98.48 @ 2017-07-05T15:24:06.927Z"}
+{"level":"notice","message":"pid: 3865","timestamp":"172.31.98.48 @ 2017-07-05T15:24:06.928Z"}
+{"level":"notice","message":"server ID: 172.31.98.48","timestamp":"172.31.98.48 @ 2017-07-05T15:24:06.929Z"}
+{"level":"info","message":"actionhero member 172.31.98.48 has left the cluster","timestamp":"172.31.98.48 @ 2017-07-05T15:24:06.934Z"}
+{"level":"info","message":"actionhero member 172.31.98.48 has joined the cluster","timestamp":"172.31.98.48 @ 2017-07-05T15:24:06.934Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8081","timestamp":"172.31.98.48 @ 2017-07-05T15:24:06.937Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"172.31.98.48 @ 2017-07-05T15:24:06.939Z"}
+{"level":"notice","message":"environment: development","timestamp":"172.31.98.48 @ 2017-07-05T15:24:08.003Z"}
+{"level":"alert","message":"*** ActionHero Restarted ***","timestamp":"172.31.98.48 @ 2017-07-05T15:24:08.003Z"}
+{"level":"info","message":"*** Rebooting due to initializer change (/Users/alexandra/Desktop/actionhero-tutorial/initializers/blog.js) ***","timestamp":"172.31.98.48 @ 2017-07-05T15:26:54.477Z"}
+{"level":"notice","message":"Shutting down open servers and stopping task processing...","timestamp":"172.31.98.48 @ 2017-07-05T15:26:54.478Z"}
+{"level":"notice","message":"Stopping server: web","timestamp":"172.31.98.48 @ 2017-07-05T15:26:54.480Z"}
+{"level":"notice","message":"Stopping server: websocket","timestamp":"172.31.98.48 @ 2017-07-05T15:26:54.480Z"}
+{"level":"alert","message":"*** ActionHero Stopped ***","timestamp":"172.31.98.48 @ 2017-07-05T15:26:54.484Z"}
+{"level":"notice","message":"*** Starting ActionHero ***","timestamp":"172.31.98.48 @ 2017-07-05T15:26:54.515Z"}
+{"level":"notice","message":"pid: 3865","timestamp":"172.31.98.48 @ 2017-07-05T15:26:54.516Z"}
+{"level":"notice","message":"server ID: 172.31.98.48","timestamp":"172.31.98.48 @ 2017-07-05T15:26:54.516Z"}
+{"level":"info","message":"actionhero member 172.31.98.48 has left the cluster","timestamp":"172.31.98.48 @ 2017-07-05T15:26:54.517Z"}
+{"level":"info","message":"actionhero member 172.31.98.48 has joined the cluster","timestamp":"172.31.98.48 @ 2017-07-05T15:26:54.520Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8081","timestamp":"172.31.98.48 @ 2017-07-05T15:26:54.523Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"172.31.98.48 @ 2017-07-05T15:26:54.524Z"}
+{"level":"notice","message":"environment: development","timestamp":"172.31.98.48 @ 2017-07-05T15:26:55.277Z"}
+{"level":"alert","message":"*** ActionHero Restarted ***","timestamp":"172.31.98.48 @ 2017-07-05T15:26:55.278Z"}
+{"to":"127.0.0.1","file":"/Users/alexandra/Desktop/actionhero-tutorial/public/javascript/actionheroClient.min.js","requestedFile":"javascript/actionheroClient.min.js","size":32945,"duration":5,"success":true,"level":"info","message":"[ file @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T15:27:05.367Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":1,"level":"info","message":"[ action @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T15:27:06.575Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":43,"level":"info","message":"[ action @ web ]","timestamp":"172.31.98.48 @ 2017-07-05T15:27:06.623Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"172.31.98.48 @ 2017-07-05T15:30:13.501Z"}
+{"level":"info","message":"ACTIONHERO COMMAND >> generate initializer","timestamp":"172.31.98.48 @ 2017-07-05T15:30:13.503Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"172.31.98.48 @ 2017-07-05T15:30:13.503Z"}
+{"level":"info","message":"using default value of `1000` for `loadPriority`","timestamp":"172.31.98.48 @ 2017-07-05T15:30:13.503Z"}
+{"level":"info","message":"using default value of `1000` for `startPriority`","timestamp":"172.31.98.48 @ 2017-07-05T15:30:13.504Z"}
+{"level":"info","message":"using default value of `1000` for `stopPriority`","timestamp":"172.31.98.48 @ 2017-07-05T15:30:13.504Z"}
+{"level":"info","message":" - wrote file '/Users/alexandra/Desktop/actionhero-tutorial/initializers/users.js'","timestamp":"172.31.98.48 @ 2017-07-05T15:30:13.506Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"172.31.98.48 @ 2017-07-05T15:36:14.405Z"}
+{"level":"info","message":"ACTIONHERO COMMAND >> generate initializer","timestamp":"172.31.98.48 @ 2017-07-05T15:36:14.406Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"172.31.98.48 @ 2017-07-05T15:36:14.407Z"}
+{"level":"info","message":"using default value of `1000` for `loadPriority`","timestamp":"172.31.98.48 @ 2017-07-05T15:36:14.407Z"}
+{"level":"info","message":"using default value of `1000` for `startPriority`","timestamp":"172.31.98.48 @ 2017-07-05T15:36:14.407Z"}
+{"level":"info","message":"using default value of `1000` for `stopPriority`","timestamp":"172.31.98.48 @ 2017-07-05T15:36:14.407Z"}
+{"level":"info","message":" - wrote file '/Users/alexandra/Desktop/actionhero-tutorial/initializers/middleware.js'","timestamp":"172.31.98.48 @ 2017-07-05T15:36:14.409Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"172.31.98.48 @ 2017-07-05T15:46:50.527Z"}
+{"level":"info","message":"ACTIONHERO COMMAND >> generate action","timestamp":"172.31.98.48 @ 2017-07-05T15:46:50.529Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"172.31.98.48 @ 2017-07-05T15:46:50.529Z"}
+{"level":"info","message":"using default value of `an actionhero action` for `description`","timestamp":"172.31.98.48 @ 2017-07-05T15:46:50.530Z"}
+{"level":"info","message":" - wrote file '/Users/alexandra/Desktop/actionhero-tutorial/actions/users.js'","timestamp":"172.31.98.48 @ 2017-07-05T15:46:50.531Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"172.31.98.48 @ 2017-07-05T15:46:56.353Z"}
+{"level":"info","message":"ACTIONHERO COMMAND >> generate action","timestamp":"172.31.98.48 @ 2017-07-05T15:46:56.356Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"172.31.98.48 @ 2017-07-05T15:46:56.356Z"}
+{"level":"info","message":"using default value of `an actionhero action` for `description`","timestamp":"172.31.98.48 @ 2017-07-05T15:46:56.357Z"}
+{"level":"info","message":" - wrote file '/Users/alexandra/Desktop/actionhero-tutorial/actions/blog.js'","timestamp":"172.31.98.48 @ 2017-07-05T15:46:56.358Z"}

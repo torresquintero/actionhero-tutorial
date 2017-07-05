@@ -1,0 +1,32 @@
+{"level":"info","message":"--------------------------------------","timestamp":"192.168.0.11 @ 2017-07-05T00:56:18.529Z"}
+{"level":"info","message":"ACTIONHERO COMMAND >> start","timestamp":"192.168.0.11 @ 2017-07-05T00:56:18.531Z"}
+{"level":"info","message":"--------------------------------------","timestamp":"192.168.0.11 @ 2017-07-05T00:56:18.531Z"}
+{"level":"notice","message":"*** Starting ActionHero ***","timestamp":"192.168.0.11 @ 2017-07-05T00:56:18.532Z"}
+{"level":"notice","message":"pid: 3865","timestamp":"192.168.0.11 @ 2017-07-05T00:56:18.534Z"}
+{"level":"notice","message":"server ID: 192.168.0.11","timestamp":"192.168.0.11 @ 2017-07-05T00:56:18.535Z"}
+{"level":"info","message":"actionhero member 192.168.0.11 has joined the cluster","timestamp":"192.168.0.11 @ 2017-07-05T00:56:18.545Z"}
+{"level":"notice","message":"Starting server: `web` @ 0.0.0.0:8080","timestamp":"192.168.0.11 @ 2017-07-05T00:56:18.549Z"}
+{"level":"notice","message":"Starting server: `websocket`","timestamp":"192.168.0.11 @ 2017-07-05T00:56:18.560Z"}
+{"level":"notice","message":"environment: development","timestamp":"192.168.0.11 @ 2017-07-05T00:56:19.511Z"}
+{"level":"alert","message":"*** ActionHero Started ***","timestamp":"192.168.0.11 @ 2017-07-05T00:56:19.512Z"}
+{"to":"127.0.0.1","file":"/Users/alexandra/Desktop/actionhero-tutorial/public/index.html","requestedFile":"index.html","size":4785,"duration":9,"success":true,"level":"info","message":"[ file @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:33.764Z"}
+{"to":"127.0.0.1","file":"/Users/alexandra/Desktop/actionhero-tutorial/public/javascript/actionheroClient.min.js","requestedFile":"javascript/actionheroClient.min.js","size":32945,"duration":3,"success":true,"level":"info","message":"[ file @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:33.780Z"}
+{"to":"127.0.0.1","file":"/Users/alexandra/Desktop/actionhero-tutorial/public/css/cosmo.css","requestedFile":"css/cosmo.css","size":125619,"duration":4,"success":true,"level":"info","message":"[ file @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:33.781Z"}
+{"to":"127.0.0.1","file":"/Users/alexandra/Desktop/actionhero-tutorial/public/logo/actionhero.png","requestedFile":"logo/actionhero.png","size":59273,"duration":0,"success":true,"level":"info","message":"[ file @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:33.786Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":2,"level":"info","message":"[ action @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:34.830Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":40,"level":"info","message":"[ action @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:34.874Z"}
+{"to":"127.0.0.1","file":"{not found}","requestedFile":"favicon.ico","size":null,"duration":null,"success":false,"level":"info","message":"[ file @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:35.190Z"}
+{"to":"127.0.0.1","file":"/Users/alexandra/Desktop/actionhero-tutorial/public/index.html","requestedFile":"index.html","size":4785,"duration":1,"success":true,"level":"info","message":"[ file @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:48.201Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":0,"level":"info","message":"[ action @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:49.158Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":73,"level":"info","message":"[ action @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:49.233Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":0,"level":"info","message":"[ action @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:52.465Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":103,"level":"info","message":"[ action @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:52.570Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":0,"level":"info","message":"[ action @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:53.849Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":45,"level":"info","message":"[ action @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T00:56:53.896Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":2,"level":"info","message":"[ action @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T14:52:54.654Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":120,"level":"info","message":"[ action @ web ]","timestamp":"192.168.0.11 @ 2017-07-05T14:52:54.783Z"}
+{"level":"info","message":"*** rebooting due to config change (/Users/alexandra/Desktop/actionhero-tutorial/config/servers/web.js) ***","timestamp":"192.168.0.11 @ 2017-07-05T14:53:59.070Z"}
+{"level":"notice","message":"Shutting down open servers and stopping task processing...","timestamp":"192.168.0.11 @ 2017-07-05T14:53:59.074Z"}
+{"level":"notice","message":"Stopping server: web","timestamp":"192.168.0.11 @ 2017-07-05T14:53:59.079Z"}
+{"level":"notice","message":"Stopping server: websocket","timestamp":"192.168.0.11 @ 2017-07-05T14:53:59.081Z"}
+{"level":"alert","message":"*** ActionHero Stopped ***","timestamp":"192.168.0.11 @ 2017-07-05T14:53:59.090Z"}
